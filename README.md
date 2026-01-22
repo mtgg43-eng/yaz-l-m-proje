@@ -1,5 +1,11 @@
 # yaz-l-m-proje
 c++ proje
+
+
+
+
+
+
 #include <iostream>
 
 using namespace std;
